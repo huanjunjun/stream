@@ -1,4 +1,4 @@
-package Á÷;
+package stream;
 
 import java.io.*;
 import java.util.*;

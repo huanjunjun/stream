@@ -1,4 +1,4 @@
-package 流;
+package stream;
 
 // 复制文本文件用字符流，其余格式文件用字节流
 

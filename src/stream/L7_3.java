@@ -1,4 +1,4 @@
-package 流;
+package stream;
 
 // 缓冲流千万别和虚拟内存混淆
 
